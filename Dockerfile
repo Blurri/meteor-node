@@ -1,5 +1,5 @@
 
-FROM node:8.11.4
+FROM node:8.12.0
 
 MAINTAINER Gabor Raz
 
